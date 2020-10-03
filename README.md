@@ -1,1 +1,1 @@
-![](./qr-web.png =250x250)
+<img src="./qr-web.png" width="200" height="200">
