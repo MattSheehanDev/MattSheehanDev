@@ -1,1 +1,1 @@
-![./qr-web.png](https://mattsheehan.dev)
+![](./qr-web.png)
